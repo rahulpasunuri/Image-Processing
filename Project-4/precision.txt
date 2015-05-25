@@ -1,0 +1,141 @@
+g++ -g p4.cpp -o p4 -lX11 -lpthread -I. -Isiftpp -O3 siftpp/sift.cpp -std=c++0x
+
+
+Query Image isattraction_images/tatemodern_24.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/tatemodern_24.jpg: 1038
+attraction_images/trafalgarsquare_5.jpg: 20
+attraction_images/trafalgarsquare_20.jpg: 17
+attraction_images/empirestate_15.jpg: 13
+attraction_images/bigben_7.jpg: 11
+attraction_images/louvre_3.jpg: 9
+attraction_images/tatemodern_9.jpg: 7
+attraction_images/notredame_19.jpg: 7
+attraction_images/empirestate_9.jpg: 6
+attraction_images/empirestate_23.jpg: 5
+
+
+Query Image isattraction_images/notredame_20.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/notredame_20.jpg: 1114
+attraction_images/empirestate_25.jpg: 7
+attraction_images/louvre_13.jpg: 7
+attraction_images/louvre_16.jpg: 4
+attraction_images/trafalgarsquare_22.jpg: 4
+attraction_images/notredame_24.jpg: 4
+attraction_images/eiffel_3.jpg: 3
+attraction_images/londoneye_9.jpg: 3
+attraction_images/tatemodern_13.jpg: 2
+attraction_images/notredame_25.jpg: 2
+
+
+Query Image isattraction_images/louvre_13.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/louvre_13.jpg: 1897
+attraction_images/trafalgarsquare_22.jpg: 55
+attraction_images/trafalgarsquare_5.jpg: 18
+attraction_images/londoneye_17.jpg: 9
+attraction_images/notredame_20.jpg: 7
+attraction_images/louvre_16.jpg: 6
+attraction_images/londoneye_13.jpg: 4
+attraction_images/londoneye_21.jpg: 3
+attraction_images/sanmarco_13.jpg: 3
+attraction_images/colosseum_15.jpg: 2
+
+
+Query Image isattraction_images/eiffel_22.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/eiffel_22.jpg: 1427
+attraction_images/notredame_25.jpg: 7
+attraction_images/eiffel_18.jpg: 5
+attraction_images/colosseum_6.jpg: 4
+attraction_images/eiffel_19.jpg: 2
+attraction_images/eiffel_7.jpg: 1
+attraction_images/colosseum_5.jpg: 1
+attraction_images/louvre_4.jpg: 1
+attraction_images/colosseum_15.jpg: 1
+attraction_images/bigben_12.jpg: 1
+
+
+Query Image isattraction_images/londoneye_16.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/londoneye_16.jpg: 1094
+attraction_images/eiffel_22.jpg: 1
+attraction_images/notredame_24.jpg: 1
+attraction_images/trafalgarsquare_21.jpg: 1
+attraction_images/eiffel_2.jpg: 1
+attraction_images/eiffel_1.jpg: 0
+attraction_images/londoneye_21.jpg: 0
+attraction_images/empirestate_27.jpg: 0
+attraction_images/colosseum_6.jpg: 0
+attraction_images/trafalgarsquare_1.jpg: 0
+
+
+Query Image isattraction_images/sanmarco_18.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/sanmarco_18.jpg: 1405
+attraction_images/louvre_3.jpg: 10
+attraction_images/empirestate_15.jpg: 7
+attraction_images/bigben_7.jpg: 6
+attraction_images/tatemodern_9.jpg: 4
+attraction_images/notredame_5.jpg: 3
+attraction_images/trafalgarsquare_20.jpg: 3
+attraction_images/bigben_14.jpg: 3
+attraction_images/empirestate_12.jpg: 3
+attraction_images/bigben_12.jpg: 3
+
+
+Query Image isattraction_images/empirestate_22.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/empirestate_22.jpg: 1144
+attraction_images/empirestate_16.jpg: 3
+attraction_images/londoneye_21.jpg: 1
+attraction_images/tatemodern_13.jpg: 1
+attraction_images/empirestate_27.jpg: 0
+attraction_images/colosseum_6.jpg: 0
+attraction_images/trafalgarsquare_1.jpg: 0
+attraction_images/colosseum_8.jpg: 0
+attraction_images/trafalgarsquare_5.jpg: 0
+attraction_images/colosseum_15.jpg: 0
+
+
+Query Image isattraction_images/bigben_16.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/bigben_16.jpg: 999
+attraction_images/bigben_6.jpg: 2
+attraction_images/bigben_7.jpg: 2
+attraction_images/bigben_8.jpg: 1
+attraction_images/tatemodern_6.jpg: 1
+attraction_images/tatemodern_24.jpg: 1
+attraction_images/bigben_12.jpg: 1
+attraction_images/empirestate_10.jpg: 1
+attraction_images/empirestate_16.jpg: 1
+attraction_images/sanmarco_22.jpg: 1
+
+
+Query Image isattraction_images/trafalgarsquare_20.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/trafalgarsquare_20.jpg: 564
+attraction_images/trafalgarsquare_5.jpg: 94
+attraction_images/empirestate_15.jpg: 19
+attraction_images/tatemodern_4.jpg: 18
+attraction_images/tatemodern_24.jpg: 17
+attraction_images/empirestate_23.jpg: 13
+attraction_images/bigben_7.jpg: 11
+attraction_images/louvre_3.jpg: 11
+attraction_images/tatemodern_6.jpg: 10
+attraction_images/tatemodern_9.jpg: 9
+
+
+Query Image isattraction_images/colosseum_11.jpg
+Printing the top 10 Matches in the decreasing order of Match
+attraction_images/colosseum_11.jpg: 2243
+attraction_images/colosseum_4.jpg: 2
+attraction_images/londoneye_21.jpg: 0
+attraction_images/empirestate_27.jpg: 0
+attraction_images/colosseum_6.jpg: 0
+attraction_images/trafalgarsquare_1.jpg: 0
+attraction_images/colosseum_8.jpg: 0
+attraction_images/trafalgarsquare_5.jpg: 0
+attraction_images/colosseum_15.jpg: 0
+attraction_images/eiffel_15.jpg: 0
