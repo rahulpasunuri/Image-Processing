@@ -13,3 +13,4 @@ These projects cover a wide range of topics which are mentioned below.
 • Template matching: Hough
 • Recognition: bag-of-words, shape matching, part-based models
 • Learning for vision: Bayesian classifiers, SVMs
+
