@@ -1,0 +1,37 @@
+g++ -g p1.cpp -o p1 -lX11 -lpthread -std=c++0x
+In: MSE/m_greyLena.jpg  Out: MSE/m_uniform_meanFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 407.104
+In: MSE/m_greyLena.jpg  Out: MSE/m_gauss_meanFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 405.522
+In: MSE/m_greyLena.jpg  Out: MSE/m_salt_meanFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 537.369
+In: MSE/m_greyLena.jpg  Out: MSE/m_uniform_gaussianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 17642.9
+In: MSE/m_greyLena.jpg  Out: MSE/m_gauss_gaussianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 17642.9
+In: MSE/m_greyLena.jpg  Out: MSE/m_salt_gaussianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 17642.9
+In: MSE/m_greyLena.jpg  Out: MSE/m_uniform_medianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 137.648
+In: MSE/m_greyLena.jpg  Out: MSE/m_gauss_medianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 0.0515022
+In: MSE/m_greyLena.jpg  Out: MSE/m_salt_medianFilterLena.jpg
+# Problem 5 - Noise Removal Analysis
+512,512,512,512,
+The mean square error is :: 3718.92
